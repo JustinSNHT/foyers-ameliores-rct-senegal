@@ -1,0 +1,27 @@
+# Données sensibles (PII : téléphones, noms)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/agg_*.parquet
+!data/processed/dictionnaire_variables.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Power BI
+*.pbix
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
