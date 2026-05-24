@@ -24,4 +24,5 @@ __pycache__/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbdata/_scratch/
+data/_scratch/

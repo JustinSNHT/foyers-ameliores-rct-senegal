@@ -1,0 +1,17 @@
+variable,label,source_brut
+hh_id,Identifiant ménage anonymisé,hash(tel_cible)
+treatment / T1 / T2,Bras de traitement (T1/T2/T3),treatment
+region / zone,Région et zone agro-écologique (strate),"region, zone"
+taille_menage_B,Taille du ménage,member_roster_count
+taches_menage_h_B/_E,Tâches ménagères par jour (h) — femme,actif18_slot
+travail_propre_compte_h,Travail propre compte / jour (h),actif19_slot
+foyer_cuisson_h_E,Temps cuisson foyer amélioré / jour,D53_1 endline
+foyer_frequence_E,Fréquence utilisation du foyer,D44_1 endline
+revenu_femme_B/_E,Revenu mensuel femme ciblée (FCFA),occup04_slot
+revenu_menage_B/_E,Revenu mensuel total ménage (FCFA),sum(occup04_*)
+score_O_global_B/_E,Score attitude entrepreneuriale (O1-O30),mean(O1-O30)
+score_genre_attitudes,Score attitudes genre entrepreneuriat,mean(O19-O30)
+score_autonomie_B/_E,Score autonomisation (actif08-16),mean(actif08-16)
+N6_B/_E,Combustible principal cuisson,N6
+D56_charbon_B/_E,Valeur stock charbon (FCFA),D56.3
+N17_B/_E,Échelle de bien-être (1-6),N17
