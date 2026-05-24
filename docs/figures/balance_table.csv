@@ -1,0 +1,13 @@
+Variable,T1 (n=614),T2 (n=616),T3 (n=620),p-valeur,Equilibre
+Taille du menage,12.792,13.279,12.681,0.279,oui
+Taches menageres / jour (h),6.206,5.958,5.912,0.617,oui
+Travail propre compte / jour (h),3.303,2.808,3.111,0.125,oui
+Revenu mensuel femme ciblee (FCFA),97261.7,87841.647,88807.072,0.455,oui
+Revenu mensuel menage (FCFA),239398.563,215422.266,210393.445,0.114,oui
+Score attitude entrepreneuriale O,2.955,2.923,2.928,0.184,oui
+Score motivation travail (O1-O9),2.86,2.868,2.841,0.295,oui
+Score attitudes genre (O19-O30),2.639,2.579,2.602,0.223,oui
+Score autonomisation (actif08-16),0.616,0.586,0.61,0.124,oui
+Stock charbon (FCFA),2553.336,2701.511,2241.446,0.029,NON
+Stock bois (FCFA),2994.211,2826.746,2459.662,0.007,NON
+Echelle de bien-etre (1-6),2.324,2.253,2.369,0.149,oui
