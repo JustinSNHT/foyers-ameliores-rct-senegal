@@ -1,0 +1,7 @@
+"part","term","statistic","Taches men. (h)","Revenu menage","Score O global","Att. genre","Charbon (FCFA)","Bien-etre (1-6)"
+"estimates","T1 (foyer + formation)","estimate","-0.788***","14868.022","0.037","0.076†","-201.219","0.108"
+"estimates","T1 (foyer + formation)","({std.error})","(0.187)","(11614.722)","(0.022)","(0.045)","(235.234)","(0.079)"
+"estimates","T2 (formation seule)","estimate","-0.484*","1331.367","0.007","-0.059","-531.434*","0.090"
+"estimates","T2 (formation seule)","({std.error})","(0.188)","(12542.863)","(0.020)","(0.044)","(239.328)","(0.078)"
+"gof","Num.Obs.","","1635","1550","1800","1800","1580","1741"
+"gof","R2","","0.063","0.132","0.028","0.029","0.058","0.076"
