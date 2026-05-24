@@ -1,0 +1,11 @@
+﻿cle;valeur
+projet;RCT Foyers Ameliores - Senegal rural
+T1;Foyer ameliore + formation (n=614)
+T2;Formation seule (n=616)
+T3;Controle (n=620)
+n_panel;1850
+randomisation;Niveau groupement (village)
+strates;5 zones agro-ecologiques
+estimateur;ANCOVA - feols + cluster SE village
+logiciel;Python 3.12 + R fixest
+mise_a_jour;24/05/2026

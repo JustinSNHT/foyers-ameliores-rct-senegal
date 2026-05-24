@@ -1,0 +1,19 @@
+﻿outcome;label_outcome;bras;n;moyenne;ecart_type;mediane
+taches_menage_h_mean_E;Taches menageres / jour (h);T1;563;5,8201;3,0224;5,5
+taches_menage_h_mean_E;Taches menageres / jour (h);T2;577;6,1611;2,8402;6,0
+taches_menage_h_mean_E;Taches menageres / jour (h);T3;578;6,6491;3,6074;6,0
+revenu_menage_E;Revenu total menage (FCFA);T1;537;172675,4525;199888,1522;105000,0
+revenu_menage_E;Revenu total menage (FCFA);T2;530;152589,6019;229403,7693;80000,0
+revenu_menage_E;Revenu total menage (FCFA);T3;541;147548,8189;173314,5399;95000,0
+score_O_global_E;Score O global;T1;594;2,7304;0,338;2,7241
+score_O_global_E;Score O global;T2;603;2,6998;0,3523;2,6786
+score_O_global_E;Score O global;T3;603;2,6931;0,3384;2,6897
+score_genre_attitudes_E;Attitudes genre / entrepr.;T1;594;2,5276;0,6296;2,5
+score_genre_attitudes_E;Attitudes genre / entrepr.;T2;603;2,3899;0,7339;2,3333
+score_genre_attitudes_E;Attitudes genre / entrepr.;T3;603;2,4512;0,6636;2,4167
+D56_charbon_E;Stock charbon (FCFA);T1;551;2502,5463;2523,2718;2000,0
+D56_charbon_E;Stock charbon (FCFA);T2;530;2227,3717;2680,0807;500,0
+D56_charbon_E;Stock charbon (FCFA);T3;543;2656,7956;4266,0601;750,0
+N17_E;Echelle bien-etre (1-6);T1;577;2,6066;1,3055;3,0
+N17_E;Echelle bien-etre (1-6);T2;591;2,5465;1,2572;2,0
+N17_E;Echelle bien-etre (1-6);T3;587;2,506;1,1849;2,0
